@@ -43,7 +43,6 @@ RUN set -eux && \
             --sysconfdir=/etc/zabbix \
             --enable-agent \
             --enable-agent2 \
-            --enable-ipv6 \
             --enable-proxy \
             --enable-server \
             --enable-webservice \

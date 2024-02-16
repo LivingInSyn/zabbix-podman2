@@ -51,7 +51,6 @@ RUN set -eux && \
             --libdir=/usr/lib/zabbix \
             --prefix=/usr \
             --sysconfdir=/etc/zabbix \
-            --enable-ipv6 \
             --enable-agent \
             --enable-agent2 \
             --enable-proxy \

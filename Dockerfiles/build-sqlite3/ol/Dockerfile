@@ -40,7 +40,6 @@ RUN set -eux && \
             --sysconfdir=/etc/zabbix \
             --enable-agent \
             --enable-agent2 \
-            --enable-ipv6 \
             --enable-java \
             --enable-proxy \
             --with-ldap \
